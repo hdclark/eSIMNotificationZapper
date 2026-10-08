@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eSIM Notification Zapper</string>
+    <string name="service_name">SIM warning auto-dismiss</string>
+    <string name="service_description">Only checks accessible windows for the configured SIM tray warning and clicks its confirmation button if found. Optional on-device diagnostics are available.</string>
+</resources>
